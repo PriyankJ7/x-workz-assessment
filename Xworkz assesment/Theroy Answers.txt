@@ -1,0 +1,35 @@
+1)What is the difference between compile time and run time?
+	Ans: Compile time: It is a time at which source code is convetred into executable file. It will convert the java file into class file.
+		javac Command is used to compile the file.
+		
+		run time: It is time at which the class file or code is running.It will execute the code.
+		java command is used to run the code.
+		
+		
+2}Explain types of variables with example.		
+	Ans: Thee are 3 types of variable 
+		1)Local variable : These variables are declared within the method.
+		2)class variable: These variable are declared in the class by using static ketword.
+		
+4)Explain method, parameter, argument and return types with example
+
+ans:  Method: It is a collection of statements which is used to perform the logic and execute the particular task.	It allows us to re-write the method. 
+		
+	Parameter: It is a variable or value that we can pass to a method in java. 
+	
+	argument:The value is passed to method whe the method is called.
+	
+	return types:It will return the value before the method completes its execution.
+	
+5)Encapsulation: We hide the data members that is fileds and we can access by using method.
+we can Read by using setmethod
+write using set method. 
+
+6)Array: It is a collection of elements which of same data types.
+Ex: String name="Priyank":
+	String place="Gadaf";
+	
+	String[] allValue={name,place};
+
+
+	
